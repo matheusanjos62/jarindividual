@@ -1,0 +1,36 @@
+2023-12-02 16:54:22null
+Data/Hora: 2023-12-02 16:54:28
+Computador: LAPTOP-GMQPC74C 
+Consumo CPU: 71,00
+Consumo RAM: 10523242496,00 bytes
+Consumo Disco: 96938143744,00 GB
+ 
+2023-12-02 16:54:28null
+Data/Hora: 2023-12-02 16:54:33
+Computador: LAPTOP-GMQPC74C 
+Consumo CPU: 61,00
+Consumo RAM: 10571481088,00 bytes
+Consumo Disco: 96938143744,00 GB
+ 
+2023-12-02 16:54:33null
+Data/Hora: 2023-12-02 16:54:40
+Computador: LAPTOP-GMQPC74C 
+Consumo CPU: 76,00
+Consumo RAM: 10567073792,00 bytes
+Consumo Disco: 96938143744,00 GB
+ 
+2023-12-02 16:54:40null
+Data/Hora: 2023-12-02 16:54:45
+Computador: LAPTOP-GMQPC74C 
+Consumo CPU: 57,00
+Consumo RAM: 10570969088,00 bytes
+Consumo Disco: 96938143744,00 GB
+ 
+2023-12-02 16:54:45null
+Data/Hora: 2023-12-02 16:54:52
+Computador: LAPTOP-GMQPC74C 
+Consumo CPU: 79,00
+Consumo RAM: 10630246400,00 bytes
+Consumo Disco: 96938143744,00 GB
+ 
+2023-12-02 16:54:52null

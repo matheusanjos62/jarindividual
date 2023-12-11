@@ -1,0 +1,274 @@
+2023-11-20 20:32:54ola
+2023-11-20 20:32:54ola
+2023-11-20 20:32:59ola
+2023-11-20 20:33:04ola
+2023-11-20 20:33:09ola
+2023-11-20 20:33:14ola
+2023-11-20 20:33:19ola
+2023-11-20 20:33:24ola
+2023-11-20 20:33:29ola
+2023-11-20 20:33:34ola
+Data/Hora: 2023-11-20
+Consumo CPU: 11,00
+Consumo RAM: 5797617664,00 bytes
+Consumo Disco: 23,00 GB
+2023-11-20 20:35:16ola
+Data/Hora: 2023-11-20
+Consumo CPU: 11,00
+Consumo RAM: 5804539904,00 bytes
+Consumo Disco: 23,00 GB
+2023-11-20 20:35:17ola
+Data/Hora: 2023-11-20
+Consumo CPU: 11,00
+Consumo RAM: 5806600192,00 bytes
+Consumo Disco: 23,00 GB
+2023-11-20 20:35:22ola
+Data/Hora: 2023-11-20
+Consumo CPU: 11,00
+Consumo RAM: 5748322304,00 bytes
+Consumo Disco: 23,00 GB
+2023-11-20 20:35:27ola
+Data/Hora: 2023-11-20
+Consumo CPU: 9,00
+Consumo RAM: 5740404736,00 bytes
+Consumo Disco: 23,00 GB
+2023-11-20 20:35:32ola
+Data/Hora: 2023-11-20
+Consumo CPU: 9,00
+Consumo RAM: 5766508544,00 bytes
+Consumo Disco: 23,00 GB
+2023-11-20 20:35:37ola
+Data/Hora: 2023-11-20
+Consumo CPU: 7,00
+Consumo RAM: 5784821760,00 bytes
+Consumo Disco: 23,00 GB
+2023-11-20 20:35:42ola
+Data/Hora: 2023-11-20
+Consumo CPU: 7,00
+Consumo RAM: 5770756096,00 bytes
+Consumo Disco: 23,00 GB
+2023-11-20 20:35:47ola
+Data/Hora: 2023-11-20
+Consumo CPU: 7,00
+Consumo RAM: 5785858048,00 bytes
+Consumo Disco: 23,00 GB
+2023-11-20 20:35:52ola
+Data/Hora: 2023-11-20
+Consumo CPU: 21,00
+Consumo RAM: 5803192320,00 bytes
+Consumo Disco: 23,00 GB
+2023-11-20 20:35:57ola
+Data/Hora: 2023-11-20
+Consumo CPU: 8,00
+Consumo RAM: 5714714624,00 bytes
+Consumo Disco: 23,00 GB
+2023-11-20 20:36:02ola
+Data/Hora: 2023-11-20
+Consumo CPU: 6,00
+Consumo RAM: 5738668032,00 bytes
+Consumo Disco: 23,00 GB
+2023-11-20 20:36:07ola
+Data/Hora: 2023-11-20
+Consumo CPU: 9,00
+Consumo RAM: 5714386944,00 bytes
+Consumo Disco: 23,00 GB
+2023-11-20 20:36:12ola
+Data/Hora: 2023-11-20
+Consumo CPU: 7,00
+Consumo RAM: 5745192960,00 bytes
+Consumo Disco: 23,00 GB
+2023-11-20 20:36:17ola
+Data/Hora: 2023-11-20
+Consumo CPU: 7,00
+Consumo RAM: 5746655232,00 bytes
+Consumo Disco: 23,00 GB
+2023-11-20 20:36:22ola
+Data/Hora: 2023-11-20
+Consumo CPU: 16,00
+Consumo RAM: 5773107200,00 bytes
+Consumo Disco: 23,00 GB
+2023-11-20 20:36:27ola
+Data/Hora: 2023-11-20
+Consumo CPU: 7,00
+Consumo RAM: 5772566528,00 bytes
+Consumo Disco: 23,00 GB
+2023-11-20 20:36:32ola
+Data/Hora: 2023-11-20
+Consumo CPU: 12,00
+Consumo RAM: 5760765952,00 bytes
+Consumo Disco: 23,00 GB
+2023-11-20 20:36:37ola
+Data/Hora: 2023-11-20
+Consumo CPU: 11,00
+Consumo RAM: 5803732992,00 bytes
+Consumo Disco: 23,00 GB
+2023-11-20 20:36:42ola
+Data/Hora: 2023-11-20
+Consumo CPU: 8,00
+Consumo RAM: 5793804288,00 bytes
+Consumo Disco: 23,00 GB
+2023-11-20 20:36:47ola
+Data/Hora: 2023-11-20
+Consumo CPU: 19,00
+Consumo RAM: 5777248256,00 bytes
+Consumo Disco: 23,00 GB
+2023-11-20 20:36:52ola
+Data/Hora: 2023-11-20
+Consumo CPU: 9,00
+Consumo RAM: 5801627648,00 bytes
+Consumo Disco: 23,00 GB
+2023-11-20 20:36:57ola
+Data/Hora: 2023-11-20
+Consumo CPU: 8,00
+Consumo RAM: 5800652800,00 bytes
+Consumo Disco: 105586008064,00 GB
+Data/Hora: 2023-11-20
+Consumo CPU: 8,00
+Consumo RAM: 5799710720,00 bytes
+Consumo Disco: 105586008064,00 GB
+Data/Hora: 2023-11-20
+Consumo CPU: 8,00
+Consumo RAM: 5813288960,00 bytes
+Consumo Disco: 105586008064,00 GB
+Data/Hora: 2023-11-20
+Consumo CPU: 11,00
+Consumo RAM: 5826195456,00 bytes
+Consumo Disco: 105586008064,00 GB
+Data/Hora: 2023-11-20
+Consumo CPU: 14,00
+Consumo RAM: 5880844288,00 bytes
+Consumo Disco: 105586008064,00 GB
+Data/Hora: 2023-11-20
+Consumo CPU: 10,00
+Consumo RAM: 5904625664,00 bytes
+Consumo Disco: 105586008064,00 GB
+Data/Hora: 2023-11-20
+Consumo CPU: 9,00
+Consumo RAM: 5928198144,00 bytes
+Consumo Disco: 105586008064,00 GB
+Data/Hora: 2023-11-20
+Consumo CPU: 6,00
+Consumo RAM: 5780971520,00 bytes
+Consumo Disco: 105586008064,00 GB
+Data/Hora: 2023-11-20
+Consumo CPU: 7,00
+Consumo RAM: 5826351104,00 bytes
+Consumo Disco: 105586008064,00 GB
+Data/Hora: 2023-11-20
+Consumo CPU: 9,00
+Consumo RAM: 5820633088,00 bytes
+Consumo Disco: 105586008064,00 GB
+Data/Hora: 2023-11-20
+Consumo CPU: 7,00
+Consumo RAM: 5820661760,00 bytes
+Consumo Disco: 105586008064,00 GB
+Data/Hora: 2023-11-20
+Consumo CPU: 5,00
+Consumo RAM: 5823152128,00 bytes
+Consumo Disco: 105586008064,00 GB
+Data/Hora: 2023-11-20
+Consumo CPU: 7,00
+Consumo RAM: 5859250176,00 bytes
+Consumo Disco: 105586008064,00 GB
+Data/Hora: 2023-11-20
+Consumo CPU: 9,00
+Consumo RAM: 5814923264,00 bytes
+Consumo Disco: 105586008064,00 GB
+Data/Hora: 2023-11-20
+Consumo CPU: 9,00
+Consumo RAM: 5819633664,00 bytes
+Consumo Disco: 105586008064,00 GB
+Data/Hora: 2023-11-20
+Consumo CPU: 7,00
+Consumo RAM: 5826387968,00 bytes
+Consumo Disco: 105586008064,00 GB
+Data/Hora: 2023-11-20
+Consumo CPU: 7,00
+Consumo RAM: 5822259200,00 bytes
+Consumo Disco: 105586008064,00 GB
+Data/Hora: 2023-11-20
+Consumo CPU: 8,00
+Consumo RAM: 5810417664,00 bytes
+Consumo Disco: 105586008064,00 GB
+Data/Hora: 2023-11-20
+Consumo CPU: 8,00
+Consumo RAM: 5809328128,00 bytes
+Consumo Disco: 105586008064,00 GB
+Data/Hora: 2023-11-20
+Consumo CPU: 7,00
+Consumo RAM: 5809303552,00 bytes
+Consumo Disco: 105586008064,00 GB
+Data/Hora: 2023-11-20
+Consumo CPU: 20,00
+Consumo RAM: 5887238144,00 bytes
+Consumo Disco: 105586008064,00 GB
+Data/Hora: 2023-11-20
+Consumo CPU: 16,00
+Consumo RAM: 5826396160,00 bytes
+Consumo Disco: 105586008064,00 GB
+Data/Hora: 2023-11-20
+ Computador: SUPERVACA 
+ Consumo CPU: 13,00
+Consumo RAM: 5876449280,00 bytes
+Consumo Disco: 105578622976,00 GB
+ 
+Data/Hora: 2023-11-20
+ Computador: SUPERVACA 
+ Consumo CPU: 13,00
+Consumo RAM: 5875212288,00 bytes
+Consumo Disco: 105578622976,00 GB
+ 
+Data/Hora: 2023-11-20
+ Computador: SUPERVACA 
+ Consumo CPU: 13,00
+Consumo RAM: 5956341760,00 bytes
+Consumo Disco: 105578622976,00 GB
+ 
+Data/Hora: 2023-11-20
+ Computador: SUPERVACA 
+ Consumo CPU: 16,00
+Consumo RAM: 5801472000,00 bytes
+Consumo Disco: 105578622976,00 GB
+ 
+Data/Hora: 2023-11-20
+ Computador: SUPERVACA 
+ Consumo CPU: 16,00
+Consumo RAM: 5717733376,00 bytes
+Consumo Disco: 105578622976,00 GB
+ 
+Data/Hora: 2023-11-20
+ Computador: SUPERVACA 
+ Consumo CPU: 7,00
+Consumo RAM: 5719474176,00 bytes
+Consumo Disco: 105578622976,00 GB
+ 
+Data/Hora: 2023-11-20
+ Computador: SUPERVACA 
+ Consumo CPU: 8,00
+Consumo RAM: 5811273728,00 bytes
+Consumo Disco: 105578622976,00 GB
+ 
+Data/Hora: 2023-11-20
+ Computador: SUPERVACA 
+ Consumo CPU: 7,00
+Consumo RAM: 5857177600,00 bytes
+Consumo Disco: 105578622976,00 GB
+ 
+Data/Hora: 2023-11-20
+ Computador: SUPERVACA 
+ Consumo CPU: 14,00
+Consumo RAM: 5713469440,00 bytes
+Consumo Disco: 105578622976,00 GB
+ 
+Data/Hora: 2023-11-20
+ Computador: SUPERVACA 
+ Consumo CPU: 9,00
+Consumo RAM: 5727662080,00 bytes
+Consumo Disco: 105578622976,00 GB
+ 
+Data/Hora: 2023-11-20
+ Computador: SUPERVACA 
+ Consumo CPU: 8,00
+Consumo RAM: 5759164416,00 bytes
+Consumo Disco: 105578622976,00 GB
+ 

@@ -1,0 +1,1268 @@
+2023-12-11 09:18:38null
+Data/Hora: 2023-12-11 09:18:52
+Computador: DESKTOP-S15ROCP 
+Consumo CPU: 0,00
+Consumo RAM: 6817800192,00 bytes
+Consumo Disco: 17299279872,00 GB
+ 
+2023-12-11 09:18:52null
+Data/Hora: 2023-12-11 09:19:06
+Computador: DESKTOP-S15ROCP 
+Consumo CPU: 0,00
+Consumo RAM: 6820438016,00 bytes
+Consumo Disco: 17299279872,00 GB
+ 
+2023-12-11 09:19:06null
+Data/Hora: 2023-12-11 09:19:15
+Computador: DESKTOP-S15ROCP 
+Consumo CPU: 0,00
+Consumo RAM: 6830256128,00 bytes
+Consumo Disco: 17299279872,00 GB
+ 
+2023-12-11 09:19:15null
+Data/Hora: 2023-12-11 09:19:23
+Computador: DESKTOP-S15ROCP 
+Consumo CPU: 0,00
+Consumo RAM: 6370865152,00 bytes
+Consumo Disco: 17299279872,00 GB
+ 
+2023-12-11 09:19:23null
+Data/Hora: 2023-12-11 09:19:30
+Computador: DESKTOP-S15ROCP 
+Consumo CPU: 0,00
+Consumo RAM: 6369546240,00 bytes
+Consumo Disco: 17299279872,00 GB
+ 
+2023-12-11 09:19:30null
+Data/Hora: 2023-12-11 09:19:41
+Computador: DESKTOP-S15ROCP 
+Consumo CPU: 0,00
+Consumo RAM: 6365052928,00 bytes
+Consumo Disco: 17299279872,00 GB
+ 
+2023-12-11 09:19:41null
+Data/Hora: 2023-12-11 09:19:50
+Computador: DESKTOP-S15ROCP 
+Consumo CPU: 0,00
+Consumo RAM: 6367784960,00 bytes
+Consumo Disco: 17299279872,00 GB
+ 
+2023-12-11 09:19:50null
+Data/Hora: 2023-12-11 09:19:59
+Computador: DESKTOP-S15ROCP 
+Consumo CPU: 0,00
+Consumo RAM: 6364143616,00 bytes
+Consumo Disco: 17299279872,00 GB
+ 
+2023-12-11 09:19:59null
+Data/Hora: 2023-12-11 09:20:11
+Computador: DESKTOP-S15ROCP 
+Consumo CPU: 0,00
+Consumo RAM: 6402019328,00 bytes
+Consumo Disco: 17299279872,00 GB
+ 
+2023-12-11 09:20:11null
+Data/Hora: 2023-12-11 09:36:14
+Computador: DESKTOP-S15ROCP 
+Consumo CPU: 0,00
+Consumo RAM: 6771642368,00 bytes
+Consumo Disco: 17299283968,00 GB
+ 
+2023-12-11 09:36:14null
+Data/Hora: 2023-12-11 09:47:29
+Computador: DESKTOP-S15ROCP 
+Consumo CPU: 1,00
+Consumo RAM: 6742138880,00 bytes
+Consumo Disco: 17299283968,00 GB
+ 
+2023-12-11 09:47:29null
+Data/Hora: 2023-12-11 09:47:37
+Computador: DESKTOP-S15ROCP 
+Consumo CPU: 1,00
+Consumo RAM: 6735450112,00 bytes
+Consumo Disco: 17299283968,00 GB
+ 
+2023-12-11 09:47:37null
+Data/Hora: 2023-12-11 09:47:45
+Computador: DESKTOP-S15ROCP 
+Consumo CPU: 0,00
+Consumo RAM: 6734454784,00 bytes
+Consumo Disco: 17299283968,00 GB
+ 
+2023-12-11 09:47:45null
+Data/Hora: 2023-12-11 09:47:53
+Computador: DESKTOP-S15ROCP 
+Consumo CPU: 1,00
+Consumo RAM: 6734647296,00 bytes
+Consumo Disco: 17299283968,00 GB
+ 
+2023-12-11 09:47:53null
+Data/Hora: 2023-12-11 09:48:01
+Computador: DESKTOP-S15ROCP 
+Consumo CPU: 1,00
+Consumo RAM: 6738935808,00 bytes
+Consumo Disco: 17299283968,00 GB
+ 
+2023-12-11 09:48:01null
+Data/Hora: 2023-12-11 09:48:09
+Computador: DESKTOP-S15ROCP 
+Consumo CPU: 0,00
+Consumo RAM: 6738370560,00 bytes
+Consumo Disco: 17299283968,00 GB
+ 
+2023-12-11 09:48:09null
+Data/Hora: 2023-12-11 09:48:17
+Computador: DESKTOP-S15ROCP 
+Consumo CPU: 2,00
+Consumo RAM: 6738894848,00 bytes
+Consumo Disco: 17299283968,00 GB
+ 
+2023-12-11 09:48:17null
+Data/Hora: 2023-12-11 09:48:24
+Computador: DESKTOP-S15ROCP 
+Consumo CPU: 0,00
+Consumo RAM: 6736048128,00 bytes
+Consumo Disco: 17299283968,00 GB
+ 
+2023-12-11 09:48:24null
+Data/Hora: 2023-12-11 09:48:32
+Computador: DESKTOP-S15ROCP 
+Consumo CPU: 23,00
+Consumo RAM: 6737403904,00 bytes
+Consumo Disco: 17299283968,00 GB
+ 
+2023-12-11 09:48:32null
+Data/Hora: 2023-12-11 09:48:40
+Computador: DESKTOP-S15ROCP 
+Consumo CPU: 2,00
+Consumo RAM: 6735986688,00 bytes
+Consumo Disco: 17299283968,00 GB
+ 
+2023-12-11 09:48:40null
+Data/Hora: 2023-12-11 09:49:15
+Computador: DESKTOP-S15ROCP 
+Consumo CPU: 1,00
+Consumo RAM: 6746238976,00 bytes
+Consumo Disco: 17299283968,00 GB
+ 
+2023-12-11 09:49:15null
+Data/Hora: 2023-12-11 09:49:23
+Computador: DESKTOP-S15ROCP 
+Consumo CPU: 1,00
+Consumo RAM: 6705524736,00 bytes
+Consumo Disco: 17299283968,00 GB
+ 
+2023-12-11 09:49:23null
+Data/Hora: 2023-12-11 09:49:31
+Computador: DESKTOP-S15ROCP 
+Consumo CPU: 0,00
+Consumo RAM: 6710341632,00 bytes
+Consumo Disco: 17299283968,00 GB
+ 
+2023-12-11 09:49:31null
+Data/Hora: 2023-12-11 09:50:44
+Computador: DESKTOP-S15ROCP 
+Consumo CPU: 1,00
+Consumo RAM: 6724812800,00 bytes
+Consumo Disco: 17299283968,00 GB
+ 
+2023-12-11 09:50:44null
+Data/Hora: 2023-12-11 09:57:05
+Computador: DESKTOP-S15ROCP 
+Consumo CPU: 1,00
+Consumo RAM: 6724550656,00 bytes
+Consumo Disco: 17299288064,00 GB
+ 
+2023-12-11 09:57:05null
+Data/Hora: 2023-12-11 09:57:13
+Computador: DESKTOP-S15ROCP 
+Consumo CPU: 1,00
+Consumo RAM: 6732496896,00 bytes
+Consumo Disco: 17299288064,00 GB
+ 
+2023-12-11 09:57:13null
+Data/Hora: 2023-12-11 09:58:55
+Computador: DESKTOP-S15ROCP 
+Consumo CPU: 1,00
+Consumo RAM: 6730588160,00 bytes
+Consumo Disco: 17299288064,00 GB
+ 
+2023-12-11 09:58:55null
+Data/Hora: 2023-12-11 09:59:03
+Computador: DESKTOP-S15ROCP 
+Consumo CPU: 1,00
+Consumo RAM: 6729076736,00 bytes
+Consumo Disco: 17299288064,00 GB
+ 
+2023-12-11 09:59:03null
+Data/Hora: 2023-12-11 09:59:11
+Computador: DESKTOP-S15ROCP 
+Consumo CPU: 0,00
+Consumo RAM: 6731898880,00 bytes
+Consumo Disco: 17299288064,00 GB
+ 
+2023-12-11 09:59:11null
+Data/Hora: 2023-12-11 09:59:19
+Computador: DESKTOP-S15ROCP 
+Consumo CPU: 2,00
+Consumo RAM: 6770892800,00 bytes
+Consumo Disco: 17299288064,00 GB
+ 
+2023-12-11 09:59:19null
+Data/Hora: 2023-12-11 09:59:27
+Computador: DESKTOP-S15ROCP 
+Consumo CPU: 1,00
+Consumo RAM: 6751199232,00 bytes
+Consumo Disco: 17299288064,00 GB
+ 
+2023-12-11 09:59:27null
+Data/Hora: 2023-12-11 09:59:35
+Computador: DESKTOP-S15ROCP 
+Consumo CPU: 5,00
+Consumo RAM: 6754467840,00 bytes
+Consumo Disco: 17299288064,00 GB
+ 
+2023-12-11 09:59:35null
+Data/Hora: 2023-12-11 09:59:44
+Computador: DESKTOP-S15ROCP 
+Consumo CPU: 0,00
+Consumo RAM: 6752608256,00 bytes
+Consumo Disco: 17299288064,00 GB
+ 
+2023-12-11 09:59:44null
+Data/Hora: 2023-12-11 09:59:51
+Computador: DESKTOP-S15ROCP 
+Consumo CPU: 1,00
+Consumo RAM: 6751473664,00 bytes
+Consumo Disco: 17299288064,00 GB
+ 
+2023-12-11 09:59:51null
+Data/Hora: 2023-12-11 09:59:59
+Computador: DESKTOP-S15ROCP 
+Consumo CPU: 0,00
+Consumo RAM: 6748483584,00 bytes
+Consumo Disco: 17299288064,00 GB
+ 
+2023-12-11 09:59:59null
+Data/Hora: 2023-12-11 10:00:07
+Computador: DESKTOP-S15ROCP 
+Consumo CPU: 0,00
+Consumo RAM: 6752075776,00 bytes
+Consumo Disco: 17299288064,00 GB
+ 
+2023-12-11 10:00:07null
+Data/Hora: 2023-12-11 10:00:15
+Computador: DESKTOP-S15ROCP 
+Consumo CPU: 1,00
+Consumo RAM: 6750482432,00 bytes
+Consumo Disco: 17299288064,00 GB
+ 
+2023-12-11 10:00:15null
+Data/Hora: 2023-12-11 10:00:23
+Computador: DESKTOP-S15ROCP 
+Consumo CPU: 1,00
+Consumo RAM: 6752460800,00 bytes
+Consumo Disco: 17299288064,00 GB
+ 
+2023-12-11 10:00:23null
+Data/Hora: 2023-12-11 10:00:31
+Computador: DESKTOP-S15ROCP 
+Consumo CPU: 2,00
+Consumo RAM: 6749028352,00 bytes
+Consumo Disco: 17299288064,00 GB
+ 
+2023-12-11 10:00:31null
+Data/Hora: 2023-12-11 10:00:39
+Computador: DESKTOP-S15ROCP 
+Consumo CPU: 1,00
+Consumo RAM: 6750887936,00 bytes
+Consumo Disco: 17299288064,00 GB
+ 
+2023-12-11 10:00:39null
+Data/Hora: 2023-12-11 10:00:47
+Computador: DESKTOP-S15ROCP 
+Consumo CPU: 4,00
+Consumo RAM: 6749573120,00 bytes
+Consumo Disco: 17299288064,00 GB
+ 
+2023-12-11 10:00:47null
+Data/Hora: 2023-12-11 10:00:55
+Computador: DESKTOP-S15ROCP 
+Consumo CPU: 0,00
+Consumo RAM: 6751391744,00 bytes
+Consumo Disco: 17299288064,00 GB
+ 
+2023-12-11 10:00:55null
+Data/Hora: 2023-12-11 10:01:03
+Computador: DESKTOP-S15ROCP 
+Consumo CPU: 2,00
+Consumo RAM: 6751526912,00 bytes
+Consumo Disco: 17299288064,00 GB
+ 
+2023-12-11 10:01:03null
+Data/Hora: 2023-12-11 10:01:10
+Computador: DESKTOP-S15ROCP 
+Consumo CPU: 1,00
+Consumo RAM: 6751604736,00 bytes
+Consumo Disco: 17299288064,00 GB
+ 
+2023-12-11 10:01:10null
+Data/Hora: 2023-12-11 10:01:18
+Computador: DESKTOP-S15ROCP 
+Consumo CPU: 0,00
+Consumo RAM: 6752600064,00 bytes
+Consumo Disco: 17299288064,00 GB
+ 
+2023-12-11 10:01:18null
+Data/Hora: 2023-12-11 10:01:26
+Computador: DESKTOP-S15ROCP 
+Consumo CPU: 0,00
+Consumo RAM: 6754181120,00 bytes
+Consumo Disco: 17299288064,00 GB
+ 
+2023-12-11 10:01:26null
+Data/Hora: 2023-12-11 10:01:34
+Computador: DESKTOP-S15ROCP 
+Consumo CPU: 1,00
+Consumo RAM: 6748303360,00 bytes
+Consumo Disco: 17299288064,00 GB
+ 
+2023-12-11 10:01:34null
+Data/Hora: 2023-12-11 10:01:42
+Computador: DESKTOP-S15ROCP 
+Consumo CPU: 3,00
+Consumo RAM: 6743564288,00 bytes
+Consumo Disco: 17299288064,00 GB
+ 
+2023-12-11 10:01:42null
+Data/Hora: 2023-12-11 10:01:50
+Computador: DESKTOP-S15ROCP 
+Consumo CPU: 0,00
+Consumo RAM: 6772539392,00 bytes
+Consumo Disco: 17299288064,00 GB
+ 
+2023-12-11 10:01:50null
+Data/Hora: 2023-12-11 10:01:58
+Computador: DESKTOP-S15ROCP 
+Consumo CPU: 0,00
+Consumo RAM: 6798061568,00 bytes
+Consumo Disco: 17299288064,00 GB
+ 
+2023-12-11 10:01:58null
+Data/Hora: 2023-12-11 10:02:05
+Computador: DESKTOP-S15ROCP 
+Consumo CPU: 4,00
+Consumo RAM: 6790787072,00 bytes
+Consumo Disco: 17299288064,00 GB
+ 
+2023-12-11 10:02:05null
+Data/Hora: 2023-12-11 10:02:13
+Computador: DESKTOP-S15ROCP 
+Consumo CPU: 1,00
+Consumo RAM: 6769045504,00 bytes
+Consumo Disco: 17299288064,00 GB
+ 
+2023-12-11 10:02:13null
+Data/Hora: 2023-12-11 10:02:20
+Computador: DESKTOP-S15ROCP 
+Consumo CPU: 25,00
+Consumo RAM: 6785339392,00 bytes
+Consumo Disco: 17299288064,00 GB
+ 
+2023-12-11 10:02:20null
+Data/Hora: 2023-12-11 10:02:28
+Computador: DESKTOP-S15ROCP 
+Consumo CPU: 0,00
+Consumo RAM: 6775173120,00 bytes
+Consumo Disco: 17299288064,00 GB
+ 
+2023-12-11 10:02:28null
+Data/Hora: 2023-12-11 10:02:36
+Computador: DESKTOP-S15ROCP 
+Consumo CPU: 23,00
+Consumo RAM: 6786314240,00 bytes
+Consumo Disco: 17299288064,00 GB
+ 
+2023-12-11 10:02:36null
+Data/Hora: 2023-12-11 10:02:43
+Computador: DESKTOP-S15ROCP 
+Consumo CPU: 1,00
+Consumo RAM: 6780461056,00 bytes
+Consumo Disco: 17299288064,00 GB
+ 
+2023-12-11 10:02:43null
+Data/Hora: 2023-12-11 10:02:51
+Computador: DESKTOP-S15ROCP 
+Consumo CPU: 0,00
+Consumo RAM: 6790635520,00 bytes
+Consumo Disco: 17299288064,00 GB
+ 
+2023-12-11 10:02:51null
+Data/Hora: 2023-12-11 10:02:59
+Computador: DESKTOP-S15ROCP 
+Consumo CPU: 3,00
+Consumo RAM: 6778662912,00 bytes
+Consumo Disco: 17299288064,00 GB
+ 
+2023-12-11 10:02:59null
+Data/Hora: 2023-12-11 10:03:06
+Computador: DESKTOP-S15ROCP 
+Consumo CPU: 1,00
+Consumo RAM: 6782230528,00 bytes
+Consumo Disco: 17299288064,00 GB
+ 
+2023-12-11 10:03:06null
+Data/Hora: 2023-12-11 10:03:14
+Computador: DESKTOP-S15ROCP 
+Consumo CPU: 0,00
+Consumo RAM: 6780432384,00 bytes
+Consumo Disco: 17299288064,00 GB
+ 
+2023-12-11 10:03:14null
+Data/Hora: 2023-12-11 10:03:22
+Computador: DESKTOP-S15ROCP 
+Consumo CPU: 1,00
+Consumo RAM: 6779908096,00 bytes
+Consumo Disco: 17299288064,00 GB
+ 
+2023-12-11 10:03:22null
+Data/Hora: 2023-12-11 10:03:31
+Computador: DESKTOP-S15ROCP 
+Consumo CPU: 0,00
+Consumo RAM: 6792142848,00 bytes
+Consumo Disco: 17299288064,00 GB
+ 
+2023-12-11 10:03:31null
+Data/Hora: 2023-12-11 10:03:40
+Computador: DESKTOP-S15ROCP 
+Consumo CPU: 0,00
+Consumo RAM: 6780997632,00 bytes
+Consumo Disco: 17299288064,00 GB
+ 
+2023-12-11 10:03:40null
+Data/Hora: 2023-12-11 10:04:10
+Computador: DESKTOP-S15ROCP 
+Consumo CPU: 0,00
+Consumo RAM: 6736609280,00 bytes
+Consumo Disco: 17299292160,00 GB
+ 
+2023-12-11 10:04:10null
+Data/Hora: 2023-12-11 10:07:22
+Computador: DESKTOP-S15ROCP 
+Consumo CPU: 0,00
+Consumo RAM: 6836056064,00 bytes
+Consumo Disco: 17299292160,00 GB
+ 
+2023-12-11 10:07:22null
+Data/Hora: 2023-12-11 10:07:31
+Computador: DESKTOP-S15ROCP 
+Consumo CPU: 0,00
+Consumo RAM: 6832824320,00 bytes
+Consumo Disco: 17299292160,00 GB
+ 
+2023-12-11 10:07:31null
+Data/Hora: 2023-12-11 10:07:42
+Computador: DESKTOP-S15ROCP 
+Consumo CPU: 0,00
+Consumo RAM: 6836445184,00 bytes
+Consumo Disco: 17299292160,00 GB
+ 
+2023-12-11 10:07:42null
+Data/Hora: 2023-12-11 10:07:51
+Computador: DESKTOP-S15ROCP 
+Consumo CPU: 2,00
+Consumo RAM: 6776676352,00 bytes
+Consumo Disco: 17299292160,00 GB
+ 
+2023-12-11 10:07:51null
+Data/Hora: 2023-12-11 10:08:01
+Computador: DESKTOP-S15ROCP 
+Consumo CPU: 1,00
+Consumo RAM: 6775717888,00 bytes
+Consumo Disco: 17299292160,00 GB
+ 
+2023-12-11 10:08:01null
+Data/Hora: 2023-12-11 10:08:10
+Computador: DESKTOP-S15ROCP 
+Consumo CPU: 0,00
+Consumo RAM: 6777106432,00 bytes
+Consumo Disco: 17299292160,00 GB
+ 
+2023-12-11 10:08:10null
+Data/Hora: 2023-12-11 10:08:19
+Computador: DESKTOP-S15ROCP 
+Consumo CPU: 0,00
+Consumo RAM: 6777733120,00 bytes
+Consumo Disco: 17299292160,00 GB
+ 
+2023-12-11 10:08:19null
+Data/Hora: 2023-12-11 10:08:28
+Computador: DESKTOP-S15ROCP 
+Consumo CPU: 0,00
+Consumo RAM: 6775103488,00 bytes
+Consumo Disco: 17299292160,00 GB
+ 
+2023-12-11 10:08:28null
+Data/Hora: 2023-12-11 10:08:38
+Computador: DESKTOP-S15ROCP 
+Consumo CPU: 0,00
+Consumo RAM: 6775619584,00 bytes
+Consumo Disco: 17299292160,00 GB
+ 
+2023-12-11 10:08:38null
+Data/Hora: 2023-12-11 10:12:11
+Computador: DESKTOP-S15ROCP 
+Consumo CPU: 0,00
+Consumo RAM: 6644633600,00 bytes
+Consumo Disco: 17299296256,00 GB
+ 
+2023-12-11 10:12:11null
+Data/Hora: 2023-12-11 10:14:30
+Computador: DESKTOP-S15ROCP 
+Consumo CPU: 2,00
+Consumo RAM: 6620360704,00 bytes
+Consumo Disco: 17299296256,00 GB
+ 
+2023-12-11 10:14:30null
+Data/Hora: 2023-12-11 10:14:39
+Computador: DESKTOP-S15ROCP 
+Consumo CPU: 2,00
+Consumo RAM: 6619824128,00 bytes
+Consumo Disco: 17299296256,00 GB
+ 
+2023-12-11 10:14:39null
+Data/Hora: 2023-12-11 10:14:47
+Computador: DESKTOP-S15ROCP 
+Consumo CPU: 0,00
+Consumo RAM: 6618460160,00 bytes
+Consumo Disco: 17299296256,00 GB
+ 
+2023-12-11 10:14:47null
+Data/Hora: 2023-12-11 10:14:56
+Computador: DESKTOP-S15ROCP 
+Consumo CPU: 1,00
+Consumo RAM: 6619004928,00 bytes
+Consumo Disco: 17299296256,00 GB
+ 
+2023-12-11 10:14:56null
+Data/Hora: 2023-12-11 10:38:19
+Computador: DESKTOP-S15ROCP 
+Consumo CPU: 0,00
+Consumo RAM: 5665013760,00 bytes
+Consumo Disco: 17299296256,00 GB
+ 
+2023-12-11 10:38:19null
+Data/Hora: 2023-12-11 10:38:31
+Computador: DESKTOP-S15ROCP 
+Consumo CPU: 0,00
+Consumo RAM: 5662224384,00 bytes
+Consumo Disco: 17299296256,00 GB
+ 
+2023-12-11 10:38:31null
+Data/Hora: 2023-12-11 10:38:44
+Computador: DESKTOP-S15ROCP 
+Consumo CPU: 2,00
+Consumo RAM: 5661315072,00 bytes
+Consumo Disco: 17299296256,00 GB
+ 
+2023-12-11 10:38:44null
+Data/Hora: 2023-12-11 10:38:59
+Computador: DESKTOP-S15ROCP 
+Consumo CPU: 1,00
+Consumo RAM: 5655425024,00 bytes
+Consumo Disco: 17299296256,00 GB
+ 
+2023-12-11 10:38:59null
+Data/Hora: 2023-12-11 10:39:18
+Computador: DESKTOP-S15ROCP 
+Consumo CPU: 0,00
+Consumo RAM: 5653966848,00 bytes
+Consumo Disco: 17299296256,00 GB
+ 
+2023-12-11 10:39:18null
+Data/Hora: 2023-12-11 10:39:34
+Computador: DESKTOP-S15ROCP 
+Consumo CPU: 0,00
+Consumo RAM: 5643079680,00 bytes
+Consumo Disco: 17299296256,00 GB
+ 
+2023-12-11 10:39:34null
+Data/Hora: 2023-12-11 10:39:55
+Computador: DESKTOP-S15ROCP 
+Consumo CPU: 0,00
+Consumo RAM: 5632630784,00 bytes
+Consumo Disco: 17299296256,00 GB
+ 
+2023-12-11 10:39:55null
+Data/Hora: 2023-12-11 10:42:58
+Computador: DESKTOP-S15ROCP 
+Consumo CPU: 1,00
+Consumo RAM: 5603106816,00 bytes
+Consumo Disco: 17299296256,00 GB
+ 
+2023-12-11 10:42:58null
+Data/Hora: 2023-12-11 10:43:11
+Computador: DESKTOP-S15ROCP 
+Consumo CPU: 1,00
+Consumo RAM: 5611352064,00 bytes
+Consumo Disco: 17299296256,00 GB
+ 
+2023-12-11 10:43:11null
+Data/Hora: 2023-12-11 10:43:20
+Computador: DESKTOP-S15ROCP 
+Consumo CPU: 1,00
+Consumo RAM: 5607628800,00 bytes
+Consumo Disco: 17299296256,00 GB
+ 
+2023-12-11 10:43:20null
+Data/Hora: 2023-12-11 10:43:28
+Computador: DESKTOP-S15ROCP 
+Consumo CPU: 0,00
+Consumo RAM: 5605437440,00 bytes
+Consumo Disco: 17299296256,00 GB
+ 
+2023-12-11 10:43:28null
+Data/Hora: 2023-12-11 10:43:41
+Computador: DESKTOP-S15ROCP 
+Consumo CPU: 0,00
+Consumo RAM: 5604511744,00 bytes
+Consumo Disco: 17299296256,00 GB
+ 
+2023-12-11 10:43:41null
+Data/Hora: 2023-12-11 10:43:51
+Computador: DESKTOP-S15ROCP 
+Consumo CPU: 1,00
+Consumo RAM: 5606772736,00 bytes
+Consumo Disco: 17299296256,00 GB
+ 
+2023-12-11 10:43:51null
+Data/Hora: 2023-12-11 10:44:02
+Computador: DESKTOP-S15ROCP 
+Consumo CPU: 1,00
+Consumo RAM: 5605806080,00 bytes
+Consumo Disco: 17299296256,00 GB
+ 
+2023-12-11 10:44:02null
+Data/Hora: 2023-12-11 10:44:13
+Computador: DESKTOP-S15ROCP 
+Consumo CPU: 0,00
+Consumo RAM: 5605134336,00 bytes
+Consumo Disco: 17299296256,00 GB
+ 
+2023-12-11 10:44:13null
+Data/Hora: 2023-12-11 10:44:24
+Computador: DESKTOP-S15ROCP 
+Consumo CPU: 0,00
+Consumo RAM: 5602693120,00 bytes
+Consumo Disco: 17299296256,00 GB
+ 
+2023-12-11 10:44:24null
+Data/Hora: 2023-12-11 10:44:34
+Computador: DESKTOP-S15ROCP 
+Consumo CPU: 0,00
+Consumo RAM: 5865984000,00 bytes
+Consumo Disco: 17299296256,00 GB
+ 
+2023-12-11 10:44:34null
+Data/Hora: 2023-12-11 10:44:42
+Computador: DESKTOP-S15ROCP 
+Consumo CPU: 7,00
+Consumo RAM: 5839073280,00 bytes
+Consumo Disco: 17299296256,00 GB
+ 
+2023-12-11 10:44:42null
+Data/Hora: 2023-12-11 10:44:52
+Computador: DESKTOP-S15ROCP 
+Consumo CPU: 3,00
+Consumo RAM: 5785759744,00 bytes
+Consumo Disco: 17299296256,00 GB
+ 
+2023-12-11 10:44:52null
+Data/Hora: 2023-12-11 10:45:02
+Computador: DESKTOP-S15ROCP 
+Consumo CPU: 0,00
+Consumo RAM: 5789384704,00 bytes
+Consumo Disco: 17299296256,00 GB
+ 
+2023-12-11 10:45:02null
+Data/Hora: 2023-12-11 10:45:11
+Computador: DESKTOP-S15ROCP 
+Consumo CPU: 1,00
+Consumo RAM: 5806391296,00 bytes
+Consumo Disco: 17299296256,00 GB
+ 
+2023-12-11 10:45:11null
+Data/Hora: 2023-12-11 10:45:19
+Computador: DESKTOP-S15ROCP 
+Consumo CPU: 2,00
+Consumo RAM: 5789855744,00 bytes
+Consumo Disco: 17299296256,00 GB
+ 
+2023-12-11 10:45:19null
+Data/Hora: 2023-12-11 10:45:27
+Computador: DESKTOP-S15ROCP 
+Consumo CPU: 1,00
+Consumo RAM: 5790588928,00 bytes
+Consumo Disco: 17299296256,00 GB
+ 
+2023-12-11 10:45:27null
+Data/Hora: 2023-12-11 11:01:03
+Computador: DESKTOP-S15ROCP 
+Consumo CPU: 1,00
+Consumo RAM: 5762076672,00 bytes
+Consumo Disco: 17299300352,00 GB
+ 
+2023-12-11 11:01:03null
+Data/Hora: 2023-12-11 11:01:19
+Computador: DESKTOP-S15ROCP 
+Consumo CPU: 1,00
+Consumo RAM: 5764161536,00 bytes
+Consumo Disco: 17299300352,00 GB
+ 
+2023-12-11 11:01:19null
+Data/Hora: 2023-12-11 11:09:05
+Computador: DESKTOP-S15ROCP 
+Consumo CPU: 1,00
+Consumo RAM: 6088286208,00 bytes
+Consumo Disco: 17299300352,00 GB
+ 
+2023-12-11 11:09:05null
+Data/Hora: 2023-12-11 11:11:05
+Computador: DESKTOP-S15ROCP 
+Consumo CPU: 3,00
+Consumo RAM: 6062690304,00 bytes
+Consumo Disco: 17299300352,00 GB
+ 
+2023-12-11 11:11:05null
+Data/Hora: 2023-12-11 11:11:19
+Computador: DESKTOP-S15ROCP 
+Consumo CPU: 3,00
+Consumo RAM: 6060888064,00 bytes
+Consumo Disco: 17299300352,00 GB
+ 
+2023-12-11 11:11:19null
+Data/Hora: 2023-12-11 11:15:18
+Computador: DESKTOP-S15ROCP 
+Consumo CPU: 1,00
+Consumo RAM: 6024884224,00 bytes
+Consumo Disco: 17299296256,00 GB
+ 
+2023-12-11 11:15:18null
+Data/Hora: 2023-12-11 11:19:49
+Computador: DESKTOP-S15ROCP 
+Consumo CPU: 0,00
+Consumo RAM: 6024110080,00 bytes
+Consumo Disco: 17299296256,00 GB
+ 
+2023-12-11 11:19:49null
+Data/Hora: 2023-12-11 11:23:29
+Computador: DESKTOP-S15ROCP 
+Consumo CPU: 0,00
+Consumo RAM: 6038233088,00 bytes
+Consumo Disco: 17299296256,00 GB
+ 
+2023-12-11 11:23:29null
+Data/Hora: 2023-12-11 11:23:45
+Computador: DESKTOP-S15ROCP 
+Consumo CPU: 0,00
+Consumo RAM: 6028103680,00 bytes
+Consumo Disco: 17299296256,00 GB
+ 
+2023-12-11 11:23:45null
+Data/Hora: 2023-12-11 11:24:00
+Computador: DESKTOP-S15ROCP 
+Consumo CPU: 0,00
+Consumo RAM: 6030094336,00 bytes
+Consumo Disco: 17299296256,00 GB
+ 
+2023-12-11 11:24:00null
+Data/Hora: 2023-12-11 11:26:00
+Computador: DESKTOP-S15ROCP 
+Consumo CPU: 1,00
+Consumo RAM: 6048460800,00 bytes
+Consumo Disco: 17299300352,00 GB
+ 
+2023-12-11 11:26:00null
+Data/Hora: 2023-12-11 11:26:10
+Computador: DESKTOP-S15ROCP 
+Consumo CPU: 1,00
+Consumo RAM: 6049009664,00 bytes
+Consumo Disco: 17299300352,00 GB
+ 
+2023-12-11 11:26:10null
+Data/Hora: 2023-12-11 11:26:20
+Computador: DESKTOP-S15ROCP 
+Consumo CPU: 1,00
+Consumo RAM: 6050320384,00 bytes
+Consumo Disco: 17299300352,00 GB
+ 
+2023-12-11 11:26:20null
+Data/Hora: 2023-12-11 11:26:30
+Computador: DESKTOP-S15ROCP 
+Consumo CPU: 0,00
+Consumo RAM: 5982470144,00 bytes
+Consumo Disco: 17299300352,00 GB
+ 
+2023-12-11 11:26:30null
+Data/Hora: 2023-12-11 11:26:40
+Computador: DESKTOP-S15ROCP 
+Consumo CPU: 5,00
+Consumo RAM: 5982130176,00 bytes
+Consumo Disco: 17299300352,00 GB
+ 
+2023-12-11 11:26:40null
+Data/Hora: 2023-12-11 11:28:29
+Computador: DESKTOP-S15ROCP 
+Consumo CPU: 3,00
+Consumo RAM: 6117707776,00 bytes
+Consumo Disco: 17299296256,00 GB
+ 
+2023-12-11 11:28:29null
+Data/Hora: 2023-12-11 11:28:43
+Computador: DESKTOP-S15ROCP 
+Consumo CPU: 3,00
+Consumo RAM: 6126104576,00 bytes
+Consumo Disco: 17299296256,00 GB
+ 
+2023-12-11 11:28:43null
+Data/Hora: 2023-12-11 11:28:59
+Computador: DESKTOP-S15ROCP 
+Consumo CPU: 1,00
+Consumo RAM: 6126120960,00 bytes
+Consumo Disco: 17299296256,00 GB
+ 
+2023-12-11 11:28:59null
+Data/Hora: 2023-12-11 11:29:12
+Computador: DESKTOP-S15ROCP 
+Consumo CPU: 0,00
+Consumo RAM: 6117203968,00 bytes
+Consumo Disco: 17299296256,00 GB
+ 
+2023-12-11 11:29:12null
+Data/Hora: 2023-12-11 11:29:24
+Computador: DESKTOP-S15ROCP 
+Consumo CPU: 1,00
+Consumo RAM: 6127091712,00 bytes
+Consumo Disco: 17299296256,00 GB
+ 
+2023-12-11 11:29:24null
+Data/Hora: 2023-12-11 11:29:34
+Computador: DESKTOP-S15ROCP 
+Consumo CPU: 0,00
+Consumo RAM: 6118125568,00 bytes
+Consumo Disco: 17299296256,00 GB
+ 
+2023-12-11 11:29:34null
+Data/Hora: 2023-12-11 11:29:44
+Computador: DESKTOP-S15ROCP 
+Consumo CPU: 0,00
+Consumo RAM: 6120947712,00 bytes
+Consumo Disco: 17299296256,00 GB
+ 
+2023-12-11 11:29:44null
+Data/Hora: 2023-12-11 11:30:59
+Computador: DESKTOP-S15ROCP 
+Consumo CPU: 0,00
+Consumo RAM: 6110535680,00 bytes
+Consumo Disco: 17299300352,00 GB
+ 
+2023-12-11 11:30:59null
+Data/Hora: 2023-12-11 11:31:10
+Computador: DESKTOP-S15ROCP 
+Consumo CPU: 0,00
+Consumo RAM: 6109184000,00 bytes
+Consumo Disco: 17299300352,00 GB
+ 
+2023-12-11 11:31:10null
+Data/Hora: 2023-12-11 11:31:21
+Computador: DESKTOP-S15ROCP 
+Consumo CPU: 0,00
+Consumo RAM: 6095376384,00 bytes
+Consumo Disco: 17299300352,00 GB
+ 
+2023-12-11 11:31:21null
+Data/Hora: 2023-12-11 11:31:31
+Computador: DESKTOP-S15ROCP 
+Consumo CPU: 3,00
+Consumo RAM: 6066778112,00 bytes
+Consumo Disco: 17299300352,00 GB
+ 
+2023-12-11 11:31:31null
+Data/Hora: 2023-12-11 11:32:54
+Computador: DESKTOP-S15ROCP 
+Consumo CPU: 0,00
+Consumo RAM: 6060818432,00 bytes
+Consumo Disco: 17299304448,00 GB
+ 
+2023-12-11 11:32:54null
+Data/Hora: 2023-12-11 11:33:05
+Computador: DESKTOP-S15ROCP 
+Consumo CPU: 0,00
+Consumo RAM: 6059331584,00 bytes
+Consumo Disco: 17299304448,00 GB
+ 
+2023-12-11 11:33:05null
+Data/Hora: 2023-12-11 11:33:16
+Computador: DESKTOP-S15ROCP 
+Consumo CPU: 0,00
+Consumo RAM: 6067093504,00 bytes
+Consumo Disco: 17299304448,00 GB
+ 
+2023-12-11 11:33:16null
+Data/Hora: 2023-12-11 11:33:28
+Computador: DESKTOP-S15ROCP 
+Consumo CPU: 0,00
+Consumo RAM: 6076309504,00 bytes
+Consumo Disco: 17299304448,00 GB
+ 
+2023-12-11 11:33:28null
+Data/Hora: 2023-12-11 11:33:42
+Computador: DESKTOP-S15ROCP 
+Consumo CPU: 0,00
+Consumo RAM: 6073384960,00 bytes
+Consumo Disco: 17299304448,00 GB
+ 
+2023-12-11 11:33:42null
+Data/Hora: 2023-12-11 11:53:33
+Computador: DESKTOP-S15ROCP 
+Consumo CPU: 0,00
+Consumo RAM: 5845225472,00 bytes
+Consumo Disco: 17299304448,00 GB
+ 
+2023-12-11 11:53:33null
+Data/Hora: 2023-12-11 11:53:48
+Computador: DESKTOP-S15ROCP 
+Consumo CPU: 0,00
+Consumo RAM: 5845692416,00 bytes
+Consumo Disco: 17299304448,00 GB
+ 
+2023-12-11 11:53:48null
+Data/Hora: 2023-12-11 11:54:02
+Computador: DESKTOP-S15ROCP 
+Consumo CPU: 0,00
+Consumo RAM: 5845708800,00 bytes
+Consumo Disco: 17299304448,00 GB
+ 
+2023-12-11 11:54:02null
+Data/Hora: 2023-12-11 11:54:16
+Computador: DESKTOP-S15ROCP 
+Consumo CPU: 0,00
+Consumo RAM: 5846093824,00 bytes
+Consumo Disco: 17299304448,00 GB
+ 
+2023-12-11 11:54:16null
+Data/Hora: 2023-12-11 11:54:31
+Computador: DESKTOP-S15ROCP 
+Consumo CPU: 1,00
+Consumo RAM: 5856296960,00 bytes
+Consumo Disco: 17299304448,00 GB
+ 
+2023-12-11 11:54:31null
+Data/Hora: 2023-12-11 11:54:47
+Computador: DESKTOP-S15ROCP 
+Consumo CPU: 1,00
+Consumo RAM: 5853044736,00 bytes
+Consumo Disco: 17299304448,00 GB
+ 
+2023-12-11 11:54:47null
+Data/Hora: 2023-12-11 12:05:03
+Computador: DESKTOP-S15ROCP 
+Consumo CPU: 1,00
+Consumo RAM: 5889044480,00 bytes
+Consumo Disco: 17299304448,00 GB
+ 
+2023-12-11 12:05:03null
+Data/Hora: 2023-12-11 12:05:18
+Computador: DESKTOP-S15ROCP 
+Consumo CPU: 1,00
+Consumo RAM: 5897392128,00 bytes
+Consumo Disco: 17299304448,00 GB
+ 
+2023-12-11 12:05:18null
+Data/Hora: 2023-12-11 12:08:37
+Computador: DESKTOP-S15ROCP 
+Consumo CPU: 1,00
+Consumo RAM: 5986611200,00 bytes
+Consumo Disco: 17299308544,00 GB
+ 
+2023-12-11 12:08:37null
+Data/Hora: 2023-12-11 12:12:32
+Computador: DESKTOP-S15ROCP 
+Consumo CPU: 1,00
+Consumo RAM: 5976748032,00 bytes
+Consumo Disco: 17299308544,00 GB
+ 
+2023-12-11 12:12:32null
+Data/Hora: 2023-12-11 12:14:23
+Computador: DESKTOP-S15ROCP 
+Consumo CPU: 1,00
+Consumo RAM: 5984669696,00 bytes
+Consumo Disco: 17299308544,00 GB
+ 
+2023-12-11 12:14:23null
+Data/Hora: 2023-12-11 12:14:40
+Computador: DESKTOP-S15ROCP 
+Consumo CPU: 1,00
+Consumo RAM: 6007738368,00 bytes
+Consumo Disco: 17299308544,00 GB
+ 
+2023-12-11 12:14:40null
+Data/Hora: 2023-12-11 12:17:17
+Computador: DESKTOP-S15ROCP 
+Consumo CPU: 1,00
+Consumo RAM: 6003818496,00 bytes
+Consumo Disco: 17299304448,00 GB
+ 
+2023-12-11 12:17:17null
+Data/Hora: 2023-12-11 12:17:34
+Computador: DESKTOP-S15ROCP 
+Consumo CPU: 1,00
+Consumo RAM: 6003154944,00 bytes
+Consumo Disco: 17299304448,00 GB
+ 
+2023-12-11 12:17:34null
+Data/Hora: 2023-12-11 12:17:51
+Computador: DESKTOP-S15ROCP 
+Consumo CPU: 13,00
+Consumo RAM: 6004203520,00 bytes
+Consumo Disco: 17299304448,00 GB
+ 
+2023-12-11 12:17:51null
+Data/Hora: 2023-12-11 12:18:41
+Computador: DESKTOP-S15ROCP 
+Consumo CPU: 0,00
+Consumo RAM: 6002057216,00 bytes
+Consumo Disco: 17299308544,00 GB
+ 
+2023-12-11 12:18:41null
+Data/Hora: 2023-12-11 12:20:09
+Computador: DESKTOP-S15ROCP 
+Consumo CPU: 0,00
+Consumo RAM: 5992181760,00 bytes
+Consumo Disco: 17299304448,00 GB
+ 
+2023-12-11 12:20:09null
+Data/Hora: 2023-12-11 12:20:57
+Computador: DESKTOP-S15ROCP 
+Consumo CPU: 1,00
+Consumo RAM: 5993828352,00 bytes
+Consumo Disco: 17299304448,00 GB
+ 
+2023-12-11 12:20:57null
+Data/Hora: 2023-12-11 12:22:13
+Computador: DESKTOP-S15ROCP 
+Consumo CPU: 1,00
+Consumo RAM: 5947895808,00 bytes
+Consumo Disco: 17299304448,00 GB
+ 
+2023-12-11 12:22:13null
+Data/Hora: 2023-12-11 12:22:29
+Computador: DESKTOP-S15ROCP 
+Consumo CPU: 1,00
+Consumo RAM: 5953200128,00 bytes
+Consumo Disco: 17299304448,00 GB
+ 
+2023-12-11 12:22:29null
+Data/Hora: 2023-12-11 12:32:36
+Computador: DESKTOP-S15ROCP 
+Consumo CPU: 1,00
+Consumo RAM: 6019547136,00 bytes
+Consumo Disco: 17299304448,00 GB
+ 
+2023-12-11 12:32:36null
+Data/Hora: 2023-12-11 12:36:21
+Computador: DESKTOP-S15ROCP 
+Consumo CPU: 0,00
+Consumo RAM: 6017867776,00 bytes
+Consumo Disco: 17299304448,00 GB
+ 
+2023-12-11 12:36:21null
+Data/Hora: 2023-12-11 14:53:00
+Computador: DESKTOP-S15ROCP 
+Consumo CPU: 1,00
+Consumo RAM: 5920288768,00 bytes
+Consumo Disco: 17299304448,00 GB
+ 
+2023-12-11 14:53:00null
+Data/Hora: 2023-12-11 14:57:01
+Computador: DESKTOP-S15ROCP 
+Consumo CPU: 1,00
+Consumo RAM: 5925306368,00 bytes
+Consumo Disco: 17299304448,00 GB
+ 
+2023-12-11 14:57:01null
+Data/Hora: 2023-12-11 14:57:16
+Computador: DESKTOP-S15ROCP 
+Consumo CPU: 1,00
+Consumo RAM: 5938601984,00 bytes
+Consumo Disco: 17299304448,00 GB
+ 
+2023-12-11 14:57:16null
+Data/Hora: 2023-12-11 14:58:11
+Computador: DESKTOP-S15ROCP 
+Consumo CPU: 3,00
+Consumo RAM: 5933314048,00 bytes
+Consumo Disco: 17299304448,00 GB
+ 
+2023-12-11 14:58:11null
+Data/Hora: 2023-12-11 14:59:06
+Computador: DESKTOP-S15ROCP 
+Consumo CPU: 2,00
+Consumo RAM: 5884399616,00 bytes
+Consumo Disco: 17299304448,00 GB
+ 
+2023-12-11 14:59:06null
+Data/Hora: 2023-12-11 14:59:21
+Computador: DESKTOP-S15ROCP 
+Consumo CPU: 2,00
+Consumo RAM: 5895008256,00 bytes
+Consumo Disco: 17299304448,00 GB
+ 
+2023-12-11 14:59:21null
+Data/Hora: 2023-12-11 15:01:25
+Computador: DESKTOP-S15ROCP 
+Consumo CPU: 2,00
+Consumo RAM: 5910142976,00 bytes
+Consumo Disco: 17299304448,00 GB
+ 
+2023-12-11 15:01:25null
+Data/Hora: 2023-12-11 15:02:16
+Computador: DESKTOP-S15ROCP 
+Consumo CPU: 1,00
+Consumo RAM: 5905776640,00 bytes
+Consumo Disco: 17299304448,00 GB
+ 
+2023-12-11 15:02:16null
+Data/Hora: 2023-12-11 15:02:32
+Computador: DESKTOP-S15ROCP 
+Consumo CPU: 1,00
+Consumo RAM: 5905788928,00 bytes
+Consumo Disco: 17299304448,00 GB
+ 
+2023-12-11 15:02:32null
+Data/Hora: 2023-12-11 15:02:48
+Computador: DESKTOP-S15ROCP 
+Consumo CPU: 1,00
+Consumo RAM: 5907304448,00 bytes
+Consumo Disco: 17299304448,00 GB
+ 
+2023-12-11 15:02:48null
+Data/Hora: 2023-12-11 15:03:04
+Computador: DESKTOP-S15ROCP 
+Consumo CPU: 0,00
+Consumo RAM: 5907132416,00 bytes
+Consumo Disco: 17299304448,00 GB
+ 
+2023-12-11 15:03:04null
+Data/Hora: 2023-12-11 15:03:20
+Computador: DESKTOP-S15ROCP 
+Consumo CPU: 2,00
+Consumo RAM: 5899792384,00 bytes
+Consumo Disco: 17299304448,00 GB
+ 
+2023-12-11 15:03:20null
+Data/Hora: 2023-12-11 15:03:38
+Computador: DESKTOP-S15ROCP 
+Consumo CPU: 0,00
+Consumo RAM: 5901246464,00 bytes
+Consumo Disco: 17299304448,00 GB
+ 
+2023-12-11 15:03:38null
+Data/Hora: 2023-12-11 15:03:53
+Computador: DESKTOP-S15ROCP 
+Consumo CPU: 0,00
+Consumo RAM: 5901987840,00 bytes
+Consumo Disco: 17299304448,00 GB
+ 
+2023-12-11 15:03:53null
+Data/Hora: 2023-12-11 15:04:08
+Computador: DESKTOP-S15ROCP 
+Consumo CPU: 1,00
+Consumo RAM: 5900120064,00 bytes
+Consumo Disco: 17299304448,00 GB
+ 
+2023-12-11 15:04:08null
+Data/Hora: 2023-12-11 15:04:24
+Computador: DESKTOP-S15ROCP 
+Consumo CPU: 9,00
+Consumo RAM: 5902233600,00 bytes
+Consumo Disco: 17299304448,00 GB
+ 
+2023-12-11 15:04:24null
+Data/Hora: 2023-12-11 15:04:39
+Computador: DESKTOP-S15ROCP 
+Consumo CPU: 0,00
+Consumo RAM: 5902053376,00 bytes
+Consumo Disco: 17299304448,00 GB
+ 
+2023-12-11 15:04:39null
+Data/Hora: 2023-12-11 15:04:54
+Computador: DESKTOP-S15ROCP 
+Consumo CPU: 1,00
+Consumo RAM: 5907415040,00 bytes
+Consumo Disco: 17299304448,00 GB
+ 
+2023-12-11 15:04:54null
+Data/Hora: 2023-12-11 15:05:11
+Computador: DESKTOP-S15ROCP 
+Consumo CPU: 0,00
+Consumo RAM: 5923266560,00 bytes
+Consumo Disco: 17299304448,00 GB
+ 
+2023-12-11 15:05:11null
+Data/Hora: 2023-12-11 15:05:27
+Computador: DESKTOP-S15ROCP 
+Consumo CPU: 9,00
+Consumo RAM: 5904863232,00 bytes
+Consumo Disco: 17299304448,00 GB
+ 
+2023-12-11 15:05:27null
+Data/Hora: 2023-12-11 15:05:42
+Computador: DESKTOP-S15ROCP 
+Consumo CPU: 0,00
+Consumo RAM: 5903511552,00 bytes
+Consumo Disco: 17299304448,00 GB
+ 
+2023-12-11 15:05:42null
+Data/Hora: 2023-12-11 15:05:58
+Computador: DESKTOP-S15ROCP 
+Consumo CPU: 0,00
+Consumo RAM: 5917896704,00 bytes
+Consumo Disco: 17299304448,00 GB
+ 
+2023-12-11 15:05:58null
+Data/Hora: 2023-12-11 15:06:13
+Computador: DESKTOP-S15ROCP 
+Consumo CPU: 0,00
+Consumo RAM: 5917110272,00 bytes
+Consumo Disco: 17299304448,00 GB
+ 
+2023-12-11 15:06:13null
+Data/Hora: 2023-12-11 15:07:02
+Computador: DESKTOP-S15ROCP 
+Consumo CPU: 0,00
+Consumo RAM: 5919907840,00 bytes
+Consumo Disco: 17299308544,00 GB
+ 
+2023-12-11 15:07:02null
+Data/Hora: 2023-12-11 15:07:19
+Computador: DESKTOP-S15ROCP 
+Consumo CPU: 0,00
+Consumo RAM: 5925769216,00 bytes
+Consumo Disco: 17299308544,00 GB
+ 
+2023-12-11 15:07:19null
+Data/Hora: 2023-12-11 16:27:11
+Computador: DESKTOP-S15ROCP 
+Consumo CPU: 0,00
+Consumo RAM: 5596827648,00 bytes
+Consumo Disco: 17299308544,00 GB
+ 
+2023-12-11 16:27:11null
+Data/Hora: 2023-12-11 16:27:20
+Computador: DESKTOP-S15ROCP 
+Consumo CPU: 0,00
+Consumo RAM: 5610536960,00 bytes
+Consumo Disco: 17299308544,00 GB
+ 
+2023-12-11 16:27:20null
